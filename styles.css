@@ -1,0 +1,330 @@
+.titulo-container, body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    color: black;
+    background-color: whitesmoke;
+    text-align: center;
+}
+.hr {
+    
+    border:0;
+    height: 10px;
+    background-color: black;
+    margin: 20px 0;
+}
+body {
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Usuario1 {
+    width: 400px; /* Ancho */
+    height: 400px; /* Alto */
+    background-color: rgb(0, 0, 0); /* Color de fondo */
+    border-radius: none; /* Borde sólido de 2px de grosor y color negro */
+    margin:  auto; /* Margen automático para centrar horizontalmente */
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+    .mitad-2 img {
+    max-width: 100%;
+    height: 100%;
+}
+
+
+.mitad-1, .mitad-2, mitad-3 {
+
+    flex-grow: 1;
+    height: 100px;
+}
+
+.mitad-1 {
+    display: flex;
+    width: 400px;
+    height: 50px;
+    background-color: white;
+    border-radius: none;
+    align-items: center;
+    justify-content: left;
+    margin-left: 0px;
+    
+    }
+.mitad-2 {
+    display: flex;
+    width: 400px;
+    height: 250px;
+    background-color: black;
+    border-radius: none;
+    align-items: center;
+    justify-content: left;
+    margin-left: 0px;
+    clear: both;
+
+
+}
+.mitad-3 {
+        display: flex;
+        width: 400px;
+        height: 100px;
+        background-color:white;
+        border-radius: none;
+        align-items: center;
+        justify-content: left;
+        margin-left: 0px;
+        clear: both;
+        
+    
+        }
+         
+/** Segunda imagen! **/
+
+.Usuario2 {
+    width: 400px; /* Ancho */
+    height: 400px; /* Alto */
+    background-color: rgb(0, 0, 0); /* Color de fondo */
+    border-radius: none; /* Borde sólido de 2px de grosor y color negro */
+    margin:  auto; /* Margen automático para centrar horizontalmente */
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+    .mitad-5 img {
+    width:  100%;
+    max-height:  100%;
+}
+
+
+.mitad-4, .mitad-5, mitad-6 {
+
+    flex-grow: 1;
+    height: 100px;
+}
+
+.mitad-4 {
+    display: flex;
+    width: 400px;
+    height: 50px;
+    background-color: white;
+    border-radius: none;
+    align-items: center;
+    justify-content: left;
+    margin-left: 0px;
+    
+    }
+.mitad-5 {
+    display: flex;
+    width: 400ppx;
+    height: 250px;
+    background-color: black;
+    border-radius: none;
+    align-items: center;
+    justify-content: left;
+    margin-left: 0px;
+    clear: both;
+
+
+}
+.mitad-6 {
+        display: flex;
+        width: 400px;
+        height: 100px;
+        background-color:white;
+        border-radius: none;
+        align-items: center;
+        justify-content: left;
+        margin-left: 0px;
+        clear: both;
+        
+    
+        }
+         
+ /** tercera imagen! **/
+
+
+.Usuario3 {
+    width: 400px; /* Ancho */
+    height: 50px; /* Alto */
+    background-color: rgb(0, 0, 0); /* Color de fondo */
+    border-radius: none; /* Borde sólido de 2px de grosor y color negro */
+    margin:  auto; /* Margen automático para centrar horizontalmente */
+    margin-top: 50px;
+    margin-bottom: 400px;
+
+}
+.mitad-8 img {
+    max-width:  100%;
+    
+    max-width: 100%;
+}
+
+
+.mitad-7, .mitad-8, mitad-9 {
+
+    flex-grow: 1;
+    height: 100px;
+}
+
+.mitad-7 {
+    display: flex;
+    width: 400px;
+    height: 50px;
+    background-color: white;
+    border-radius: none;
+    align-items: center;
+    justify-content: left;
+    margin-left: 0px;
+    
+    }
+.mitad-8 {
+    display: flex;
+    width: 400px;
+    height: 250px;
+    background-color: black;
+    border-radius: none;
+    align-items: center;
+    justify-content: left;
+    margin-left: 0px;
+    clear: both;
+
+
+}
+.mitad-9 {
+        display: flex;
+        width: 400px;
+        height: 100px;
+        background-color:white;
+        border-radius: none;
+        align-items: center;
+        justify-content: left;
+        margin-left: 0px;
+        clear: both;
+        margin-bottom: 20px;
+        
+    
+ }
+
+ /** Cuarta imagen! **/
+
+ .Usuario4 {
+    width: 400px; /* Ancho */
+    height: 400px; /* Alto */
+    background-color: rgb(0, 0, 0); /* Color de fondo */
+    border-radius: none; /* Borde sólido de 2px de grosor y color negro */
+    margin:  auto; /* Margen automático para centrar horizontalmente */
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+    .mitad-11 img {
+    width: 100%;
+    height: 100%;
+}
+
+
+.mitad-10, .mitad-11, mitad-12 {
+
+    flex-grow: 1;
+    height: 100px;
+}
+
+.mitad-10 {
+    display: flex;
+    width: 400px;
+    height: 50px;
+    background-color: white;
+    border-radius: none;
+    align-items: center;
+    justify-content: left;
+    margin-left: 0px;
+    
+    }
+.mitad-11 {
+    display: flex;
+    width: 400px;
+    height: 250px;
+    background-color: black;
+    border-radius: none;
+    align-items: center;
+    justify-content: left;
+    margin-left: 0px;
+    clear: both;
+
+
+}
+.mitad-12 {
+        display: flex;
+        width: 400px;
+        height: 100px;
+        background-color:white;
+        border-radius: none;
+        align-items: center;
+        justify-content: left;
+        margin-left: 0px;
+        clear: both;
+        
+    
+        }
+/** Quinta imagen! **/
+
+ .Usuario5 {
+    width: 400px; /* Ancho */
+    height: 400px; /* Alto */
+    background-color: rgb(0, 0, 0); /* Color de fondo */
+    border-radius: none; /* Borde sólido de 2px de grosor y color negro */
+    margin:  auto; /* Margen automático para centrar horizontalmente */
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+    .mitad-14 img {
+    width: 100%;
+    height: 100%;
+}
+
+
+.mitad-13, .mitad-14, mitad-15 {
+
+    flex-grow: 1;
+    height: 100px;
+}
+
+.mitad-13 {
+    display: flex;
+    width: 400px;
+    height: 50px;
+    background-color: white;
+    border-radius: none;
+    align-items: center;
+    justify-content: left;
+    margin-left: 0px;
+    
+    }
+.mitad-14 {
+    display: flex;
+    width: 400px;
+    height: 250px;
+    background-color: black;
+    border-radius: none;
+    align-items: center;
+    justify-content: left;
+    margin-left: 0px;
+    clear: both;
+
+
+}
+.mitad-15 {
+        display: flex;
+        width: 400px;
+        height: 100px;
+        background-color:white;
+        border-radius: none;
+        align-items: center;
+        justify-content: left;
+        margin-left: 0px;
+        clear: both;
+        
+    
+        }
